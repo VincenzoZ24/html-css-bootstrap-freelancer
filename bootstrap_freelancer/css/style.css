@@ -1,16 +1,15 @@
 nav{
     height: 60px;
 }
-.h_container{
-    height: 400px;
-}
+
 .h_img{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
-.h_100{
-    height: 100%;
+.h_100 img{
+    width:  100%;
 }
 .h_col{
+    
     height: 200px;
 }
