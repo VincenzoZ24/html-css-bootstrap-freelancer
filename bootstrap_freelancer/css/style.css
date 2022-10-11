@@ -4,7 +4,6 @@ nav {
 
 .h_img {
     width: 200px;
-
 }
 
 .h_100 img {
@@ -13,4 +12,7 @@ nav {
 
 .img-card {
     width: 100%;
+}
+.btn{
+    width: auto;
 }
