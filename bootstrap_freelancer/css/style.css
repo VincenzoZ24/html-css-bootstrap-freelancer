@@ -1,15 +1,16 @@
-nav{
+nav {
     height: 60px;
 }
 
-.h_img{
+.h_img {
     width: 200px;
-   
-}
-.h_100 img{
-    width:  100%;
+
 }
 
-.img-card{
+.h_100 img {
+    width: 100%;
+}
+
+.img-card {
     width: 100%;
 }
