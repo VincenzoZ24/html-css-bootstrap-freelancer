@@ -4,12 +4,15 @@ nav{
 
 .h_img{
     width: 200px;
-    height: 200px;
+   
 }
 .h_100 img{
     width:  100%;
 }
-.h_col{
+/* .h_col{
     
-    height: 200px;
+   width: 200px;
+} */
+.img-card{
+    width: 100%;
 }
