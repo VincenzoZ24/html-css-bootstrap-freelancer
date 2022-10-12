@@ -20,3 +20,7 @@ nav {
     display: block !important;
    border: none;
 }
+footer{
+    background-color: rgb(44, 55, 64);
+    font-size: 12px;
+}
